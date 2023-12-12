@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">DashBoard</string>
+    <string name="title_home">Home</string>
+    <string name="title_transactions">Transactions</string>
+    <string name="title_account">Account</string>
+
+    <string name="home_trx_title">Daily Transaction Types</string>
+    <string name="home_cat_usage_title">Category Usage</string>
+    <string name="amount">UGX. %,d</string>
+
+    <string name="welcome">Hello, %1$s</string>
+    <string name="empty_transactions_list">Your transactions will be listed here</string>
+    <string name="switch_number">Switch</string>
+    <string name="send_pay_money">Pay out</string>
+    <string name="pref_title_account">Account</string>
+    <string name="key_view_profile">key_view_profile</string>
+    <string name="title_view_profile">View Profile</string>
+    <string name="key_default_number">key_default_number</string>
+    <string name="title_default_number">Default Number</string>
+    <string name="summary_default_number">The current number you pay out from</string>
+
+    <!-- App themes array -->
+    <string-array name="themes">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System default</item>
+    </string-array>
+
+    <string-array name="themesValues">
+        <item>Light</item>
+        <item>Dark</item>
+        <item>System</item>
+    </string-array>
+
+    <string name="pref_title_general">General</string>
+    <string name="pref_title_app_theme">App Theme</string>
+    <string name="pref_app_theme">pref_app_theme</string>
+    <string name="title_app_theme">Set app theme</string>
+    <string name="pref_header_about">Support</string>
+    <string name="key_send_feedback">key_send_feedback</string>
+    <string name="summary_support">Report technical issues, suggest new features or report any queries.</string>
+    <string name="title_send_feedback">Send Feedback</string>
+    <string name="default_app_theme">System default</string>
+    <string name="pref_header_safety">Safety</string>
+    <string name="key_privacy_policy">key_privacy_policy</string>
+    <string name="title_privacy_policy">Privacy Policy</string>
+    <string name="key_logout">key_logout</string>
+    <string name="title_logout">Logout</string>
+    <string name="key_share_mypro">key_share_mypro</string>
+    <string name="title_share_mypro">Share MyPro</string>
+    <string name="key_about_mypro">key_about_mypro</string>
+    <string name="title_about_mypro">About MyPro</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_link_to_register">Register</string>
+    <string name="forgot_password_button">Forgot Password?</string>
+    <string name="login_on_mypro">Login to Your Account</string>
+    <string name="hint_email">Your Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_link_to_login">Already have an account? Login now</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hint_last_name">Last Name</string>
+    <string name="hint_first_name">First Name</string>
+    <string name="register_on_mypro">Register On MyPro</string>
+    <string name="edit_profile_instructions">Edit your profile details</string>
+    <string name="login_register">Login or Register</string>
+    <string name="login_register_msg">Login or register to be able to see your profile</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="home_serv_usage_title">Service Usage</string>
+</resources>
