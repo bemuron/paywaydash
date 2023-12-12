@@ -15,3 +15,4 @@ Take note of the following;
 - Minimum supported SDK = 24
 - Target SDK = 33
 - Compiled with Java v8
+- Internet connection is required for the app to pull the initial data.
